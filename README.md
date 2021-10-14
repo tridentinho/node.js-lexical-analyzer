@@ -1,12 +1,24 @@
-/*
- * Copyright (c) 2021 Lucas Gulart da Silveira - Compasso UOL
- * -
- * Created Date: Thursday, October 14th 2021, 8:03:24 pm
- * Author: Lucas Gulart da Silveira <lucas.silveira@compasso.com.br>
- * -
- * In problem case contact me to resolve
- * -
- * HISTORY:
- * Date      	By	Comments
- * ----------	---	----------------------------------------------------------
- */
+# Node.js lexical analyzer
+
+Node.js Lexical Analyzer
+
+## Installation
+
+To install use
+
+```bash
+yarn install
+```
+Or
+```bash
+npm install
+```
+And run with
+```bash
+yarn start
+```
+Or
+```bash
+npm install
+```
+
