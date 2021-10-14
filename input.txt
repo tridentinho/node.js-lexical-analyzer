@@ -1,0 +1,7 @@
+function main(){
+    var name01 = 'abc';
+    print(name0)
+    print(123)
+    if(name01 == 'abc')
+    let i = 2*2%3;
+}

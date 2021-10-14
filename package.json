@@ -1,0 +1,14 @@
+{
+  "name": "analisador-lexico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
